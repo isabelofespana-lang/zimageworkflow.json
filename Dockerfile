@@ -6,7 +6,7 @@ FROM runpod/worker-comfyui:5.5.1-base
 # Could not resolve unknown_registry custom node 'PromptHistoryInput' - no aux_id provided; skipped
 # Could not resolve unknown_registry custom node 'ConditioningZeroOut' - no aux_id provided; skipped
 # Could not resolve unknown_registry custom node 'ClownsharKSampler_Beta' - no aux_id provided; skipped
-RUN comfy-node-install comfyui-kjnodes comfyui-nodes ComfyUI-PromptHistoryGallery RES4LYF
+RUN comfy-node-install comfyui-kjnodes ComfyUI-PromptHistoryGallery RES4LYF
  
 
 
